@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 25px;
+    text-align: center;
+}
+
+.first{
+    background-color: brown;
+    border: 5px solid blue;
+    
+}
+
+.first h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+#id-unique{
+    background-color: yellow;
+    border: 5px dotted blue;
+    margin: 25px;
+}
+
+#your-form{
+    background: #094e1b;
+}
+
+#your-name{
+    background-color: aqua;
+    padding: 25px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:end;
+
+}
